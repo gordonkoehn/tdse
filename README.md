@@ -12,16 +12,16 @@ For the detailed Theory (Physical Conditions and Numerical Approximation) see **
 
 ## Aims & Objectives
 ### Aims
-• solve the time dependent Schr oeodinger equation using the ’Finite Domain Time Difference Method’
-• demonstrate the working method on a few potentials
-• comment on physical intuition gained
+- solve the time dependent Schr oeodinger equation using the ’Finite Domain Time Difference Method’
+- demonstrate the working method on a few potentials
+- comment on physical intuition gained
 
 ### Objectives
-• discretize space and time
-• implement a physical potential parameters
-• implement physical particle/wave parameters
-• generate potential wells: free, square, harmonic, step 
-• demonstrate potential wells
+- discretize space and time
+- implement a physical potential parameters
+- implement physical particle/wave parameters
+- generate potential wells: free, square, harmonic, step 
+- demonstrate potential wells
 
 ## Method
 
@@ -32,10 +32,10 @@ All of the method is self contained and described the Mathematica notebook. Plea
 This the Mathematica notebook contains all the calculations and some interactive animations.
 For convenience all animation produced have been exported for ease of viewing as some calculations may take a few moments. Find the animations in the \animations folder.
 All cells have been evaluated already to show the results. To rerun the calculations please evaluate all essential cells and user inputs cell consecutively. Note the color coding:
-• light blue cells are essential to be run
-• yellow cells require user input
-• white cells are optional
-• cells with a watch face mark may take 1-3 minutes to evaluate
+- light blue cells are essential to be run
+- yellow cells require user input
+- white cells are optional
+- cells with a watch face mark may take 1-3 minutes to evaluate
 In case errors occur please rerun the notebook in consecutive order. Note that occasionally the notebook may require time to reformat, a message will show Formatting Notebook Contents.
 
 ### References
